@@ -149,5 +149,6 @@ Thanks for stopping by, and happy coding!
 <!-- Optional: GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saminegash&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![saminegash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saminegash&theme=vue-dark&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminegash&theme=radical&layout=compact" alt="Top Languages" />
 </div>
