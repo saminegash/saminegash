@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/saminegash?logo=github&style=for-th
 
 Want to discuss GenAI, Agents, or Full Stack projects?  
 Feel free to schedule a 20-minute one-on-one with me:  
-[**Book a Call**](https://your-calendly-link-here.com)
+[**Book a Call**](https://calendly.com/smlngsh/30min)
 
 - **[GitHub](https://github.com/saminegash)**
 - **[LinkedIn](https://www.linkedin.com/in/sami-negash/)**
